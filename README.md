@@ -37,8 +37,8 @@
 
 ### 👨‍💻 Competitive Programming Profiles:
 
-[![Link1](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode)](#)
-[![Link2](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![https://leetcode.com/u/rayudu_333/](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode)](#)
+[![https://www.hackerrank.com/profile/bhupathirayudu51](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 [![Link3](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
 
 ---
