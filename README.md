@@ -4,7 +4,7 @@
 
 👀 I'm interested in **AI/ML**, **Web Development**, and **Cloud Computing**
 
-- 🌱 I’m currently learning **Data Science,Full-Stack Web Development**
+- 🌱 I’m currently learning **Data Science, Full-Stack Web Development**
 - 🧐 Check out all my work in **[Repository Section](https://github.com/BhupathiRayudu3?tab=repositories)**
 - 🤝 I’m looking to collaborate with **Developers**
 - 💬 Ask me about **OOPs with Java, Python, C++**, and **Machine Learning**
