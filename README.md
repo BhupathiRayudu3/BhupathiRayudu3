@@ -2,6 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=BhupathiRayudu3&label=Profile%20views&color=0e75b6&style=flat) 
 
+<img align="right" src="https://github.com/BhupathiRayudu3/BhupathiRayudu3/assets/main/github_img.jpg" width="350"/>
+
 👀 I'm interested in **AI/ML**, **Web Development**, and **Cloud Computing**
 
 - 🌱 I’m currently learning **Data Science, Full-Stack Web Development**
