@@ -2,7 +2,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=BhupathiRayudu3&label=Profile%20views&color=0e75b6&style=flat) 
 
-<img align="right" src="https://github.com/BhupathiRayudu3/BhupathiRayudu3/assets/main/github_img.jpg" width="350"/>
+
+
+<!-- Animated GIF -->
+<img align="right" src="https://camo.githubusercontent.com/349486e372eeda754fc628846d373df9fdd6076e04b1d5d6f3d049c8f77aa097/68747470733a2f2f7777772e616e696d616170702e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30372f64657369676e65726769662e676966" width="330" height="240"/>
 
 👀 I'm interested in **AI/ML**, **Web Development**, and **Cloud Computing**
 
@@ -12,6 +15,7 @@
 - 💬 Ask me about **OOPs with Java, Python, C++**, and **Machine Learning**
 - 📫 How to reach me: **bhupathirayudu567@gmail.com**
 - ⚡ Fun fact: I built a deep learning model that segments retina images with 95% pixel-level accuracy in under 2 seconds!
+
 
 ---
 
