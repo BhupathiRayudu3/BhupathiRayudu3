@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I built a deep learning model that segments retina images with 95% pixel-level accuracy in under 2 seconds!
 
 
----
+
 
 ### 🤝 Let's Get Connected :
 
@@ -28,7 +28,7 @@
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=Instagram"></a>
 </p>
 
----
+
 
 ### 💻 My Skill Stack :
 
@@ -47,7 +47,7 @@
 [![https://www.hackerrank.com/profile/bhupathirayudu51](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 [![Link3](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
 
----
+
 
 ### 📊 Contribution Stats :
 
@@ -66,7 +66,7 @@
 
 </div>
 
----
+
 
 <p align="center">
   <img src="https://github.com/BhupathiRayudu3.png" alt="Bhupathi Rayudu's Avatar" width="100">
